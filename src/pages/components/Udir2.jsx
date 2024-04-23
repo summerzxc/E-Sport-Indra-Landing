@@ -55,7 +55,7 @@ export default function Udir2() {
         </div>
         <div className="text-center text-[#AFF058] flex flex-col gap-4">
           <p>
-            Тэмцээний хураамжыг бүртгүүлсэнийхээ дараа энэ данс руу энэ шилжүүлнэ үү <span className="text-[20px] font-[600]">5112052413 Амарбаясгалан</span>
+            Тэмцээний хураамжыг бүртгүүлсэнийхээ дараа энэ данс руу Багийн нэрийг утга дээр нь бичээд шилжүүлнэ үү <span className="text-[20px] font-[600]">5112052413 Амарбаясгалан</span>
           </p>
           <a href="https://forms.gle/UjQ8Zisdq3igtbza7" target="_blank" className="text-white self-center w-fit px-4 py-2 rounded-full border border-white">Бүртгэлийн форм</a>
         </div>
