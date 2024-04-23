@@ -15,7 +15,8 @@ export default function Header() {
         <h3 className="text-2xl font-[700] tracking-tight">INDRA</h3>
       </div>
       <a
-        href=""
+        href="https://forms.gle/UjQ8Zisdq3igtbza7"
+        target="_blank"
         className="px-4 py-2 md:px-6 md:py-3 rounded-full border border-white font-[500] md:text-[16px] text-[14px]"
       >
         Бүртгүүлэх

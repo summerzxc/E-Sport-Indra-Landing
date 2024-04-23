@@ -53,6 +53,12 @@ export default function Udir2() {
             <p className="text-xl md:text-4xl">Best of 1 // Final Best of 3</p>
           </div>
         </div>
+        <div className="text-center text-[#AFF058] flex flex-col gap-4">
+          <p>
+            Тэмцээний хураамжыг бүртгүүлсэнийхээ дараа энэ данс руу энэ шилжүүлнэ үү <span className="text-[20px] font-[600]">5112052413 Амарбаясгалан</span>
+          </p>
+          <a href="https://forms.gle/UjQ8Zisdq3igtbza7" target="_blank" className="text-white self-center w-fit px-4 py-2 rounded-full border border-white">Бүртгэлийн форм</a>
+        </div>
       </div>
 
       <div className="w-full bg-white text-black rounded-[30px] p-[40px] md:p-[80px]">
@@ -85,9 +91,7 @@ export default function Udir2() {
               3rd
             </div>
             <div className="text-3xl font-[700] text-center leading-[100%]">
-              0₮
-              <br /> <span className="text-xl font-[600]">+</span>
-              <br /> Өргөмжлөл
+              Өргөмжлөл
             </div>
           </div>
         </div>

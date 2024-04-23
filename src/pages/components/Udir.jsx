@@ -41,7 +41,7 @@ export default function Udir() {
       <span className="px-4 py-2 rounded-full border-2 font-[600] border-black w-fit self-center my-[30px]">
         Хаана?
       </span>
-      <p className="text-[18px] md:text-[20px] text-center"><span className="font-[600]">2024 оны 4 сарын 27-28</span> өдрүүдэд <a href="https://maps.app.goo.gl/SiSQPuWt328Gwp6f9" className="font-[600] underline" data-cursor-text="✦" data-cursor-size="80px">PGaming e-Sport Center </a>-д <span className="font-[600]">9:00 - 18:00</span> хүртэл </p>
+      <p className="text-[18px] md:text-[20px] text-center"><span className="font-[600]">2024 оны 4 сарын 27-28</span> өдрүүдэд <a href="https://maps.app.goo.gl/SiSQPuWt328Gwp6f9" className="font-[600] underline" data-cursor-text="✦" data-cursor-size="80px">PGaming e-Sport Center </a>-д <span className="font-[600]">9:00 - 17:00</span> хүртэл </p>
     </div>
   );
 }
