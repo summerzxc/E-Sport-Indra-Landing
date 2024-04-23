@@ -24,7 +24,7 @@ export default function Home() {
   });
   return (
     <>
-      <main className="px-[64px]" data-cursor-exclusion>
+      <main className="px-[16px] md:px-[64px]" data-cursor-exclusion>
         <Header/>
         <Hero/>
         <Pc />
