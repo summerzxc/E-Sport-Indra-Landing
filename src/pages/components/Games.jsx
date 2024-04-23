@@ -10,10 +10,12 @@ export default function Games() {
         </h2>
       </div>
       <div className="w-full flex gap-6 items-center mt-[60px]">
-        <div className="w-full h-[320px] rounded-[30px] overflow-hidden">
+        <div className="w-full h-[320px] rounded-[30px] overflow-hidden" data-cursor-text="Valorant"
+      data-cursor-size="100px">
             <img src="/valo.jpg" alt="" className="w-full object-cover bg-center"/>
         </div>
-        <div className="w-full h-[320px] rounded-[30px] overflow-hidden">
+        <div className="w-full h-[320px] rounded-[30px] overflow-hidden" data-cursor-text="CS 2"
+      data-cursor-size="100px">
             <img src="/csgo.jpg" alt="" className="w-full object-cover bg-center"/>
         </div>
       </div>

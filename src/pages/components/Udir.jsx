@@ -14,7 +14,7 @@ export default function Udir() {
             Шагналын Сан{" "}
           </h1>
           <h1 className="text-[140px] leading-[100%] text-black font-[800]">
-            ₮700,000
+            700,000₮
           </h1>
         </div>
         <img

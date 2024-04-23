@@ -12,6 +12,9 @@ import Footer from "./components/Footer";
 
 const inter = Inter({ subsets: ["latin"] });
 
+import { Cursor } from "react-creative-cursor";
+import "react-creative-cursor/dist/styles.css";
+
 export default function Home() {
   useEffect(() => {
     (async () => {
@@ -20,14 +23,16 @@ export default function Home() {
     })();
   });
   return (
-    <main className=" px-[64px]">
-      <Header />
-      <Hero />
-      <Pc />
-      <Games />
-      <Udir />
-      <Udir2 />
-      <Footer/>
-    </main>
+    <>
+      <main className="px-[64px]" data-cursor-exclusion>
+        <Header/>
+        <Hero/>
+        <Pc />
+        <Games />
+        <Udir />
+        <Udir2 />
+        <Footer />
+      </main>
+    </>
   );
 }

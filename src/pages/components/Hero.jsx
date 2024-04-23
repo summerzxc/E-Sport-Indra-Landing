@@ -1,5 +1,6 @@
 import React from "react";
 import Image from "next/image";
+import Marquee from "react-fast-marquee";
 
 export default function Hero() {
   return (
@@ -17,6 +18,12 @@ export default function Hero() {
           className="animate-spin-slow"
         />
       </div>
+      <div className="mt-5"></div>
+      <Marquee>
+        <h3 className="text-3xl font-[700] tracking-tight mr-2">БҮРТГЭЛ ЯВАГДАЖ БАЙНА ✦</h3>
+        <h3 className="text-3xl font-[700] tracking-tight mr-2">БҮРТГЭЛ ЯВАГДАЖ БАЙНА ✦</h3>
+        <h3 className="text-3xl font-[700] tracking-tight mr-2">БҮРТГЭЛ ЯВАГДАЖ БАЙНА ✦</h3>
+      </Marquee>
     </div>
   );
 }
