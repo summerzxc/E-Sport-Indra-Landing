@@ -103,7 +103,7 @@ export default function Udir2() {
         </h4>
         <div className="w-full max-h-[600px] flex justify-center">
           <div className="rounded-[20px] overflow-hidden max-h-[600px]">
-            <img src="/bracket.jpg" alt="" className="max-w-full" />
+            <img src="/game.jpg" alt="" className="h-[600px] object-contain" />
           </div>
         </div>
       </div>

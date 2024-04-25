@@ -13,7 +13,7 @@ export default function Udir() {
         <img
           src="/blackvector.png"
           alt=""
-          className="w-[56px] h-[56px] md:w-[100px] md:h-[100px] animate-spin-slow"
+          className="md:hidden block w-[56px] h-[56px] md:w-[100px] md:h-[100px] animate-spin-slow"
         />
           <h1 className="mt-8 md:mt-0 text-[28px] md:text-[64px] leading-[100%] text-black font-[800]">
             Шагналын Сан
